@@ -1,28 +1,40 @@
-name: huber
 favicon: null
-layout_spectrum: 0.7707967897877097
-typography_spectrum: 0.5774643374606967
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: huber
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1262943921610713
+  brandStrength: 0.02478142455220222
+  rhythmicContrast: 0.8169251105282456
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.024781424552202225
   lightness: 0.9709521119948477
-  saturation: 0.1262943921610713
-  rhythmicContrast: 0.8169251105282456
-purpose: []
+typography_spectrum: 0.5774643374606967
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.1106383
+analytics:
+  twitter: null
+  google: null
+  facebook: null
