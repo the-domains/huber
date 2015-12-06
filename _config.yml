@@ -1,0 +1,28 @@
+name: huber
+favicon: null
+layout_spectrum: 0.7707967897877097
+typography_spectrum: 0.5774643374606967
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.024781424552202225
+  lightness: 0.9709521119948477
+  saturation: 0.1262943921610713
+  rhythmicContrast: 0.8169251105282456
+purpose: []
